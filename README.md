@@ -1,5 +1,5 @@
 # easyredis
-Store data in redis as convenient as memcached which can take any kind data types
+Store data in redis as convenient as memcached which can take any kind of data types
 
 ### Store data
 ```bash
